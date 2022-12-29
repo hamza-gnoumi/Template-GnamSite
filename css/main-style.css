@@ -141,6 +141,7 @@ ul {
     right: 10px;
     background-color: white;
     border-radius: 50%;
+    display:none;
 }
 
 @media (max-width: 767px) {
