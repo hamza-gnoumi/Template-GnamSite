@@ -55,7 +55,7 @@ window.onscroll = () => {
 
 /** event  */
 
-let dateEvent = new Date("Dec 31, 2022 23:59:59").getTime();
+let dateEvent = new Date("Dec 31, 2023 23:59:59").getTime();
 let count = setInterval(() => {
     let datenow = new Date().getTime();
     let diff = dateEvent - datenow;
